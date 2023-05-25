@@ -26,10 +26,3 @@
     })
 
 })();
-dgnznx
-fbdfb
-fdbsdfbdbf
-dfbsdbgfsdfb
-fbdbndgnh
-dfsdgfsdgfh
-fdbsdfbdfgdfdf
